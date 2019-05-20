@@ -1,0 +1,69 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inmotionfizioterapi.com" resolutions="1x" timestamp="1553032624663">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="stafi.css" crc="3967273165" ref="stafi"/>
+    <file name="kontakti.css" crc="190975309" ref="kontakti"/>
+    <file name="index.css" crc="307780281" ref="index"/>
+    <file name="sherbimet.css" crc="37383274" ref="sherbimet"/>
+  </folder>
+  <folder name="assets">
+    <file name="348.eps" crc="317305667" seo="true" mt="1519631400000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>sherbimet:phone>stafi:phone>kontakti:index:sherbimet:stafi:kontakti"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>sherbimet:phone>stafi:phone>kontakti:index:sherbimet:stafi:kontakti"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>sherbimet:phone>stafi:phone>kontakti:index:sherbimet:stafi:kontakti"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>sherbimet:phone>stafi:phone>kontakti:index:sherbimet:stafi:kontakti"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>sherbimet:phone>stafi:phone>kontakti:index:sherbimet:stafi:kontakti"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>sherbimet:phone>stafi:phone>kontakti:index:sherbimet:stafi:kontakti"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-finalesqreklama.svg" crc="348551776" seo="true" ref="index:sherbimet:stafi:kontakti:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sherbimet" alt=""/>
+      <caption webpage="kontakti" alt=""/>
+      <caption webpage="stafi" alt=""/>
+    </file>
+    <file name="logo-finalesqreklama_poster_.png" crc="391044509" ref="phone>index"/>
+    <file name="fb.svg" crc="3956115489" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb_poster_.png" crc="187903117" ref="phone>index"/>
+    <file name="instagram.svg" crc="90555104" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="3863099327" ref="phone>index"/>
+    <file name="42146020_968053723381510_177409314992947200_n.jpg" crc="4016958869" seo="true" ref="stafi:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stafi" alt=""/>
+    </file>
+    <file name="21.jpg" crc="523530081" seo="true" ref="stafi:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stafi" alt=""/>
+    </file>
+    <file name="viber-seeklogocom.svg" crc="462254429" seo="true" ref="kontakti:phone>index">
+      <caption webpage="kontakti" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber-seeklogocom_poster_.png" crc="228080821" ref="kontakti:phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="kontakti.css" crc="53185316" ref="phone>kontakti"/>
+      <file name="index.css" crc="4148022472" ref="phone>index"/>
+      <file name="sherbimet.css" crc="53185316" ref="phone>sherbimet"/>
+      <file name="stafi.css" crc="53185316" ref="phone>stafi"/>
+    </folder>
+    <file name="index.html" crc="3853867712" seo="true" mt="1553032605968" redirect="true"/>
+    <file name="sherbimet.html" crc="3853370338" seo="true" mt="1553031985358" redirect="false"/>
+    <file name="stafi.html" crc="491722698" seo="true" mt="1553022481487" redirect="false"/>
+    <file name="kontakti.html" crc="14805370" seo="true" mt="1553022491193" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="486550878" seo="true" mt="1553031477870" redirect="true"/>
+  <file name="sherbimet.html" crc="150540830" seo="true" mt="1553026287828" redirect="true"/>
+  <file name="stafi.html" crc="4118866315" seo="true" mt="1553030285533" redirect="true"/>
+  <file name="kontakti.html" crc="3868491244" seo="true" mt="1553031235419" redirect="true"/>
+</manifest>

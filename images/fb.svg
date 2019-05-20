@@ -1,0 +1,18 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136.582 136.583">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #395398;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>fb</title>
+  <g id="_Group_" data-name="&lt;Group&gt;">
+    <path id="_Path_" data-name="&lt;Path&gt;" class="cls-1" d="M23.341,0h89.9a23.34,23.34,0,0,1,23.34,23.34v89.9a23.341,23.341,0,0,1-23.341,23.341h-89.9A23.339,23.339,0,0,1,0,113.244v-89.9A23.341,23.341,0,0,1,23.341,0Z"/>
+    <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-2" d="M100.425,143.917V91.478h17.6l2.636-20.437H100.425V57.992c0-5.915,1.642-9.947,10.127-9.947l10.821,0V29.761a144.776,144.776,0,0,0-15.77-.8C90,28.957,79.32,38.481,79.32,55.97V71.042H61.674V91.478H79.32v52.439Z" transform="translate(-6.709 -7.333)"/>
+  </g>
+</svg>

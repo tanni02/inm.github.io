@@ -1,0 +1,34 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136.581 136.582">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="28.467" cy="115.873" fx="-57.1798982131088" fy="103.43176747279047" r="277.665" gradientTransform="translate(-66.484 67.045) rotate(-49.2) scale(1 0.812)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9ed32"/>
+      <stop offset="0.061" stop-color="#f8d939"/>
+      <stop offset="0.187" stop-color="#f5a54d"/>
+      <stop offset="0.365" stop-color="#f0536c"/>
+      <stop offset="0.449" stop-color="#ee2a7b"/>
+      <stop offset="0.599" stop-color="#9e2aa7"/>
+      <stop offset="0.742" stop-color="#5b2acd"/>
+      <stop offset="0.86" stop-color="#2a2ae8"/>
+      <stop offset="0.95" stop-color="#0b2af9"/>
+      <stop offset="1" stop-color="#002aff"/>
+    </radialGradient>
+  </defs>
+  <title>instagram</title>
+  <g>
+    <path class="cls-1" d="M23.341,0h89.9a23.339,23.339,0,0,1,23.339,23.339v89.9a23.34,23.34,0,0,1-23.34,23.34h-89.9A23.339,23.339,0,0,1,0,113.243v-89.9A23.341,23.341,0,0,1,23.341,0Z"/>
+    <g>
+      <path class="cls-2" d="M95.165,131.365h-43.5a35.051,35.051,0,0,1-35.011-35.01V58.024a35.051,35.051,0,0,1,35.011-35.01h43.5a35.05,35.05,0,0,1,35.01,35.01V96.355A35.05,35.05,0,0,1,95.165,131.365Zm-43.5-100.57a27.261,27.261,0,0,0-27.23,27.229V96.355a27.261,27.261,0,0,0,27.23,27.23h43.5a27.261,27.261,0,0,0,27.229-27.23V58.024A27.261,27.261,0,0,0,95.165,30.795Z" transform="translate(-5.125 -8.898)"/>
+      <path class="cls-2" d="M73.416,108.354A31.165,31.165,0,1,1,104.58,77.19,31.2,31.2,0,0,1,73.416,108.354Zm0-54.548A23.384,23.384,0,1,0,96.8,77.19,23.41,23.41,0,0,0,73.416,53.807Z" transform="translate(-5.125 -8.898)"/>
+      <circle class="cls-2" cx="98.978" cy="38.085" r="6.466"/>
+    </g>
+  </g>
+</svg>
